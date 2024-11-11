@@ -1,11 +1,13 @@
 # Genetic_Algorithm
 
 - Base Proeject: https://auto-control.tistory.com/34
-- ¾÷µ¥ÀÌÆ® ³»¿ë(2024/11/12)
-	- ÃÖÀû À¯ÀüÀÚ Ã£±â ÇÔ¼ö(searchBestGene) µî ¹ö±× ¼öÁ¤
-	- À¯ÀüÀÚ´ç ³ëµå ¼ö, À¯ÀüÀÚ ¼ö, µ¹¿¬º¯ÀÌ È®·ü ¼öÁ¤ °¡´ÉÇÏ°Ô º¯°æ
-	- µ¹¿¬º¯ÀÌ ¸ð´ÏÅÍ¸µ ±â´É Ãß°¡
-	- ÃÖÀû À¯ÀüÀÚ ¸ð´ÏÅÍ¸µ ±â´É Ãß°¡
-	- ÄÚµå Á¤¸® ¹× °£·«È­
-	- ±â´É Á¤¸® ¹× °£·«È­
-	- ÁÖ¼® Á¤¸®
+- ì—…ë°ì´íŠ¸ ë‚´ìš©(2024/11/12)
+	- ìµœì  ìœ ì „ìž ì°¾ê¸° í•¨ìˆ˜(searchBestGene) ë“± ë²„ê·¸ ìˆ˜ì •
+	- ìœ ì „ìžë‹¹ ë…¸ë“œ ìˆ˜, ìœ ì „ìž ìˆ˜, ëŒì—°ë³€ì´ í™•ë¥  ìˆ˜ì • ê°€ëŠ¥í•˜ê²Œ ë³€ê²½
+	- ëŒì—°ë³€ì´ ëª¨ë‹ˆí„°ë§ ê¸°ëŠ¥ ì¶”ê°€
+	- ìµœì  ìœ ì „ìž ëª¨ë‹ˆí„°ë§ ê¸°ëŠ¥ ì¶”ê°€
+	- ì½”ë“œ ì •ë¦¬ ë° ê°„ëžµí™”
+	- ê¸°ëŠ¥ ì •ë¦¬ ë° ê°„ëžµí™”
+	- ì£¼ì„ ì •ë¦¬
+
+![form](https://github.com/user-attachments/assets/f2028933-1651-4f75-9de4-729715be6f6a)
